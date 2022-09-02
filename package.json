@@ -1,7 +1,7 @@
 {
   "name": "sd-0x-block14-project-movie-card-library-crud",
   "version": "0.1.0",
-  "homepage": "https://scriptcamilo.github.io/trybe-movie-cards-library-crud/#",
+  "homepage": "https://scriptcamilo.github.io/trybe-movie-cards-library-crud/#/",
   "private": true,
   "dependencies": {
     "acorn": "7.1.1",

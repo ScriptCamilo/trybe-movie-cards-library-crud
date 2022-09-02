@@ -11,11 +11,10 @@ class EditMovie extends Component {
 
     this.handleSubmit = this.handleSubmit.bind(this);
 
-    const { movie } = movieAPI;
     this.state = {
       isLoading: true,
       shouldRedirect: false,
-      movie,
+      movie: null,
     };
   }
 

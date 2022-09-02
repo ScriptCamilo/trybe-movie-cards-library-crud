@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/trybe-movie-cards-library-crud/static/css/main.b18869a8.chunk.css",
-    "main.js": "/trybe-movie-cards-library-crud/static/js/main.c303a6b8.chunk.js",
-    "main.js.map": "/trybe-movie-cards-library-crud/static/js/main.c303a6b8.chunk.js.map",
+    "main.js": "/trybe-movie-cards-library-crud/static/js/main.7482d39e.chunk.js",
+    "main.js.map": "/trybe-movie-cards-library-crud/static/js/main.7482d39e.chunk.js.map",
     "runtime-main.js": "/trybe-movie-cards-library-crud/static/js/runtime-main.862c5f09.js",
     "runtime-main.js.map": "/trybe-movie-cards-library-crud/static/js/runtime-main.862c5f09.js.map",
     "static/js/2.265af8c0.chunk.js": "/trybe-movie-cards-library-crud/static/js/2.265af8c0.chunk.js",
     "static/js/2.265af8c0.chunk.js.map": "/trybe-movie-cards-library-crud/static/js/2.265af8c0.chunk.js.map",
     "index.html": "/trybe-movie-cards-library-crud/index.html",
-    "precache-manifest.88d46c8ce6e658e70dbfa569ff0bfd98.js": "/trybe-movie-cards-library-crud/precache-manifest.88d46c8ce6e658e70dbfa569ff0bfd98.js",
+    "precache-manifest.8c374c8a425c5d7c2944f4bcedcb7a7e.js": "/trybe-movie-cards-library-crud/precache-manifest.8c374c8a425c5d7c2944f4bcedcb7a7e.js",
     "service-worker.js": "/trybe-movie-cards-library-crud/service-worker.js",
     "static/css/main.b18869a8.chunk.css.map": "/trybe-movie-cards-library-crud/static/css/main.b18869a8.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.862c5f09.js",
     "static/js/2.265af8c0.chunk.js",
     "static/css/main.b18869a8.chunk.css",
-    "static/js/main.c303a6b8.chunk.js"
+    "static/js/main.7482d39e.chunk.js"
   ]
 }

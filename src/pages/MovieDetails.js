@@ -47,7 +47,7 @@ class MovieDetails extends Component {
     const { title, id, storyline, imagePath, genre, rating, subtitle } = movie;
     const details = (
       <>
-        <img alt="Movie Cover" src={ `../${imagePath}` } />
+        <img alt="Movie Cover" src={ imagePath } />
         <p>{ `Title: ${title}` }</p>
         <p>{ `Subtitle: ${subtitle}` }</p>
         <p>{ `Storyline: ${storyline}` }</p>
